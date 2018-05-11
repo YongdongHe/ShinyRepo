@@ -3,7 +3,7 @@
 
 
 ## style2paints
-<a href="https://github.com/lllyasviel/style2paints" target="_blank">example</a>
+https://github.com/lllyasviel/style2paints
 
 AI给线稿自动上色
 
