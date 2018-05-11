@@ -3,9 +3,8 @@
 
 
 ## style2paints
-https://github.com/lllyasviel/style2paints
 
-AI给线稿自动上色
+[AI给线稿自动上色](https://github.com/lllyasviel/style2paints){:target="_blank"}
 
 <img  width="300" height="200" src="https://raw.githubusercontent.com/lllyasviel/style2paints/master/temps/glance.jpg"/>
 
