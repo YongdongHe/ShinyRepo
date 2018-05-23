@@ -27,3 +27,8 @@ https://github.com/badges/shields
 
 给你的github repo增加小标签
 <img src="https://img.shields.io/npm/l/express.svg"/>
+
+## gitzip
+https://github.com/KinoLien/gitzip
+
+可以支持下载git repo下的某个文件夹，而不需要下载整个repo
