@@ -32,3 +32,10 @@ https://github.com/badges/shields
 https://github.com/KinoLien/gitzip
 
 可以支持下载git repo下的某个文件夹，而不需要下载整个repo
+
+# Android
+
+## adb idea 
+https://github.com/pbreault/adb-idea/
+idea adb快捷调试插件
+
