@@ -7,8 +7,6 @@ https://github.com/lllyasviel/style2paints
 
 AI给线稿自动上色
 
-<img  width="300" height="200" src="https://raw.githubusercontent.com/lllyasviel/style2paints/master/temps/glance.jpg"/>
-
 ## blockchain
 https://github.com/LiuBoyu/blockchain
 
@@ -37,5 +35,16 @@ https://github.com/KinoLien/gitzip
 
 ## adb idea 
 https://github.com/pbreault/adb-idea/
+
 idea adb快捷调试插件
+
+## quick switch
+https://github.com/Adamlovespring/QucikSwitch
+
+快速开启布局边界调试等等里
+
+## scrcpy
+快速录屏、手机映射到电脑上
+
+https://github.com/Genymobile/scrcpy
 
