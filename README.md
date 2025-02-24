@@ -48,3 +48,15 @@ https://github.com/Adamlovespring/QucikSwitch
 
 https://github.com/Genymobile/scrcpy
 
+## OmniDiskSweeper
+
+mac上免费的磁盘占用分析软件
+
+```brew cask install omnidisksweeper```
+
+### snipaste
+
+多端可用的截图工具
+
+https://zh.snipaste.com/
+
