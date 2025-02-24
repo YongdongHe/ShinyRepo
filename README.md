@@ -54,9 +54,15 @@ mac上免费的磁盘占用分析软件
 
 ```brew cask install omnidisksweeper```
 
-### snipaste
+## snipaste
 
 多端可用的截图工具
 
 https://zh.snipaste.com/
+
+## monitorcontrol
+
+mac调亮度、色温
+
+https://github.com/MonitorControl/MonitorControl
 
